@@ -1,5 +1,6 @@
 *.log
 .htaccess
+.ssh/
 sitemap.xml
 sitemap.xml.gz
 wp-config.php
